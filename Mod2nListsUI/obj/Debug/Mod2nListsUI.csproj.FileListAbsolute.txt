@@ -1,0 +1,6 @@
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\bin\Debug\Mod2nListsUI.exe.config
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\bin\Debug\Mod2nListsUI.exe
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\bin\Debug\Mod2nListsUI.pdb
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\obj\Debug\Mod2nListsUI.csprojAssemblyReference.cache
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\obj\Debug\Mod2nListsUI.exe
+C:\EBook\Programming\C# Programming\Tim Corey\Foundations C#\projects\Mod2nListsUIApp\Mod2nListsUI\obj\Debug\Mod2nListsUI.pdb
